@@ -1,3 +1,5 @@
 Player
 Pacman
 Monsters
+Iron Man
+Super Man
